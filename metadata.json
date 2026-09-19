@@ -1,0 +1,6 @@
+{
+  "name": "VinFast Smart E-Mobility Hub",
+  "description": "Hệ thống quản lý và điều phối mạng lưới phương tiện điện VinFast thông minh tại Khu đô thị ĐHQG-HCM (VNU-HCM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
